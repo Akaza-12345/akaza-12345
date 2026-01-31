@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I am currently in 7th grade at Ngo Thi Nham Secondary School.
+- 🔭 I am currently in 7/10 grade at Ngo Thi Nham Secondary School.
 - 🌱 I’m currently learning Python, C++, Javascript,...
 - 🤔 I’m looking for help with SDL C++
 - 💬 Ask me about Python
